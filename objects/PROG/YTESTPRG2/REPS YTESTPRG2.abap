@@ -5,3 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ytestprg2.
 write: 'hello test'.
+write: 'In the feature branch'.
